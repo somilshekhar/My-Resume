@@ -40,18 +40,6 @@ const App = () => {
         </ul>
       </div>
 
-      <div className="section">
-        <h2>Education</h2>
-        <h3>Parul University - Integrated M.C.A. - Artificial Intelligence (PICA)</h3>
-        <p>Vadodara, Gujarat, India | 2022 - 2026</p>
-        <p>CGPA: 7.97 / 10</p>
-        <h3>Dav Public School - Senior Secondary Education (12th Grade) - CBSE</h3>
-        <p>Bariyatu, Ranchi, Jharkhand | 2022</p>
-        <p>Percentage: 70.40%</p>
-        <h3>Dav Public School - Secondary Education (10th Grade) - CBSE</h3>
-        <p>Simdega, Jharkhand | 2020</p>
-        <p>Percentage: 79.60%</p>
-      </div>
 
       <div className="section">
         <h2>Projects</h2>
